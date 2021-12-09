@@ -4,6 +4,7 @@
 
  - Fix wand dupe/overwrite issue with renamed wands
  - Fix modifiers from wands not getting applied
+ - Prevent wearing spells from the spell inventory with shift-click
 
 # 10.3
 
